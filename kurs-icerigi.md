@@ -81,7 +81,7 @@
 + Graf Veri Yapısında Dolaşım İşlemleri
 + Bazı Tipik Graf Problemlerinin Çözümüne İlişkin Algoritmalar
 
-# Asenkron işlemler ve Çoklu thread (Multithreading) uygulamaları
+## Asenkron işlemler ve Çoklu thread (Multithreading) uygulamaları
 + Process kavramı
 + Asenkron programlama hakkında temel bilgiler
 + Çizelgeleme algoritmaları (scheduling algorithms)
@@ -98,7 +98,7 @@
 + Thread'lerarası senksronizasyon
 + Örnek uygulamalar
 
-# TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme
+## TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme
 
 + Protokol Kavramı
 + OSI Katmanlarının Anlamı
