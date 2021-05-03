@@ -26,7 +26,7 @@ Bu programa katılabilmek için daha Java ile uygulama geliştirmiş olmak ya da
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Pazartesi - Pazar__ günleri saat __19:30 - 22:30__ saatleri arasında __3__'er saat olarak yapılacaktır.
+Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 - 22:30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
@@ -75,10 +75,10 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV HARİÇ 3600 TL**‘dir. Öğrenci olanlara **KDV HARİÇ 3200 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __3 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
+Programın toplam ücreti **KDV HARİÇ 3900 TL**‘dir. Öğrenci olanlara **KDV HARİÇ 3200 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __3 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZYocuqgqzsqG9D_4ut7rUzzOEual3xW0rpO). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZUtc-6tqzksHdZSMM_rMqxoc4m7M63RJJBy). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 _Java ile Uygulama Geliştirme Kursu II_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
