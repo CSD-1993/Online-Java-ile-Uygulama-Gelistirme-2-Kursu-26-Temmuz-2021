@@ -81,8 +81,6 @@
 + Graf Veri Yapısında Dolaşım İşlemleri
 + Bazı Tipik Graf Problemlerinin Çözümüne İlişkin Algoritmalar
 
-
-
 # Asenkron işlemler ve Çoklu thread (Multithreading) uygulamaları
 + Process kavramı
 + Asenkron programlama hakkında temel bilgiler
