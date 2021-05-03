@@ -2,42 +2,7 @@
 
 
 ## Spring uygulamaları
-+ Temel Spring boot tekrarı
-+ Maven build aracı kurulumu ve kullanımı
-+ Spring framework
-+ Spring boot
-+ Core annotaions (Component, Configuration, Bean, Order, DependsOn, Qualifier vb.)
-+ Bean kavramı ve bean sınıflar
-+ ApplicationRunner arayüzü
-+ Scope annotation
-+ application.properties dosyası
-+ profile oluşturma
-+ yml dosyaları
-+ Maven ile jar oluşturma ve kullanma
-+ Test işlemleri (JUnit vb)
-+ Spring boot uygulamasının jar ile yayınlanması (deployment)
-+ Spring asenkron işlemler
-+ Scheduled annotation'ı
-+ Controller kavramı ve MVC (Model View Controller) tasarım kalıbı
-+ Servlet kavramı, HttpServletRequest ve HttpServletResponse sınıfları
-+ Spring REST servisler (JSON ve XML)
-+ Katmanlı mimari uygulamaları (Repository, Service ve Application katmanları)
-+ DTO (Data Transfer Object) tasarım kalıbı
-+ MVVM (Model View View Model) tasarım kalıbı
-+ Map Struct kütüphanesi
-+ ModelMapper kütüphanesi
-+ JDBC ile veritabanı işlemleri
-+ Spring JPA ve Hibernate
-+ CrudRepository arayüzü
-+ JPARepository arayüzü
-+ PostgreSQL veritabanı, JPA, Hibernate kullanımı
-+ Thymeleaf kullanımı (temel düzeyde)
-+ Spring boot exception işlemleri
-+ Spring Security 
-+ Spring ile reactif programlama (WebFlux)
-+ Spring MongoDB uygulamaları
-+ Mikroservisler
-+ Web Flux kullanımı
+
 + Örnek Uygulamalar
 
 
@@ -90,12 +55,12 @@
     + Executor'lar ve thread havuzları
 + RxJava ile asenkron işlemler
     + Schedulers sınıfı (Schedulers factory class)
-        + computation metodu
+        + computation
         + io metodu
-        + newThread metodu
+        + newThread
         + single
         + trampoline
-+ Thread'lerarası senksronizasyon
++ Thread'lerarası senkronizasyon
 + Örnek uygulamalar
 
 ## TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme
@@ -144,7 +109,7 @@
 ## Java uygulamalarının performans analizi
 
 
-# İleri düzey Spring uygulamaları
+## İleri düzey Spring uygulamaları
 
 + 
 + Örnek Uygulamalar
