@@ -114,6 +114,7 @@
 + 
 + Örnek Uygulamalar
 
+# Java'da düzenli ifadeler (regular expressions)
 
 ## JavaFX uygulamaları
 
