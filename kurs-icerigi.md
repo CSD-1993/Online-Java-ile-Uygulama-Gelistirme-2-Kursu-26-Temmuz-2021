@@ -1,4 +1,4 @@
-# Online Java ile Uygulama Geliştirne II
+# Online Java ile Uygulama Geliştirme 2
 
 
 ## Spring uygulamaları
