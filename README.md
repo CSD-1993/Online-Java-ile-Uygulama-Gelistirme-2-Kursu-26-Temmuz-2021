@@ -12,4 +12,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZYocuqgqzsqG9D_4ut7rUzzOEual3xW0rpO)
++ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZUtc-6tqzksHdZSMM_rMqxoc4m7M63RJJBy)
