@@ -43,49 +43,44 @@
 
 ## Veri Yapıları ve Algoritmalar
 
-- Algoritma Kavramı
-- Algoritmanın Karmaşıklığı
-- Algoritma Karmaşıklığının Hesaplama Yöntemleri
-- Asimtotik Notasyonlar 
-- Big O Notasyonu
-- Algoritmaların Sınıflandırılması
-- Sayılar Teorisine Yönelik Algoritmalar
-- Algoritmik Bulmacalar
-- Veri Yapısı Kavramı ve Temel Veri Yapıları
-- Dinamik Diziler, Kullanım Alanları ve Gerçekleştirimleri
-- Bağlı Listeler, Kullanım Alanları ve Gerçekleştirimleri
-- Kuyruk Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
-- Stack Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
-- Çift Yönlü Dinamik Diziler (Deque), Kullanım Alanları ve Gerçekleştirimleri
-- Sıralama Algoritmaları
-- Arama (Seraching) İşlemleri, İçsel ve Dışsal Arama Kavramları
-- İkili Aramalar
-- Üstel Aramalar
-- Hash Tabloları, Kullanım Alanları, Varyasyonları ve Gerçekleştirimleri
-- Tahsisat Algoritmaları Kullanım Alanları ve Gerçekleştirimleri
-- Çöp Toplayıcı (Garbage Collector) Kavramı, Kullanım Alanları ve Gerçekleştirimleri
-- Ağaç Kavramı, Özellikleri
-- İkili Ağaçlar
-- Ağaçlarda Dolaşım İşlemleri
-- Arama Ağaçları
-- İkili Arama Ağaçları, Kullanım Alanları ve Gerçekleştirimleri
-- İkili Arama Ağaçlarında Dengeleme
-- Heap Ağaçları, Heap Veri Yapısı ve Gerçekleştirimleri
-- Heap Veri Yapısıyla Öncelik Kuyrukları 
-- Heap Sort Yöntemi
-- Dışsal (External) Aramalar
-- B-Tree ve B+Tree Ağaçları ve Gerçekleştirimleri
-- Veri Yapılarının Genelleştirilmeleri (Türden Bağımsız Veri Yapılarının Oluşturulması)
-- Graf Veri Yapısı
-- Graf Veri Yapısının Gerçekleştirimleri
-- Graf Veri Yapısında Dolaşım İşlemleri
-- Bazı Tipik Graf Problemlerinin Çözümüne İlişkin Algoritmalar
++ Algoritma Kavramı
++ Algoritmanın Karmaşıklığı
++ Algoritma Karmaşıklığının Hesaplama Yöntemleri
++ Asimtotik Notasyonlar 
++ Big O Notasyonu
++ Algoritmaların Sınıflandırılması
++ Sayılar Teorisine Yönelik Algoritmalar
++ Algoritmik Bulmacalar
++ Veri Yapısı Kavramı ve Temel Veri Yapıları
++ Dinamik Diziler, Kullanım Alanları ve Gerçekleştirimleri
++ Bağlı Listeler, Kullanım Alanları ve Gerçekleştirimleri
++ Kuyruk Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
++ Stack Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
++ Çift Yönlü Dinamik Diziler (Deque), Kullanım Alanları ve Gerçekleştirimleri
++ Sıralama Algoritmaları
++ Arama (Searching) İşlemleri, İçsel ve Dışsal Arama Kavramları
++ İkili Aramalar
++ Üstel Aramalar
++ Hash Tabloları, Kullanım Alanları, Varyasyonları ve Gerçekleştirimleri
++ Tahsisat Algoritmaları Kullanım Alanları ve Gerçekleştirimleri
++ Çöp Toplayıcı (Garbage Collector) Kavramı, Kullanım Alanları ve Gerçekleştirimleri
++ Ağaç Kavramı, Özellikleri
++ İkili Ağaçlar
++ Ağaçlarda Dolaşım İşlemleri
++ Arama Ağaçları
++ İkili Arama Ağaçları, Kullanım Alanları ve Gerçekleştirimleri
++ İkili Arama Ağaçlarında Dengeleme
++ Heap Ağaçları, Heap Veri Yapısı ve Gerçekleştirimleri
++ Heap Veri Yapısıyla Öncelik Kuyrukları 
++ Heap Sort Yöntemi
++ Dışsal (External) Aramalar
++ B-Tree ve B+Tree Ağaçları ve Gerçekleştirimleri
++ Veri Yapılarının Genelleştirilmeleri (Türden Bağımsız Veri Yapılarının Oluşturulması)
++ Graf Veri Yapısı
++ Graf Veri Yapısının Gerçekleştirimleri
++ Graf Veri Yapısında Dolaşım İşlemleri
++ Bazı Tipik Graf Problemlerinin Çözümüne İlişkin Algoritmalar
 
-## Java ile ileri giriş/çıkış İşlemleri
-
-+ 
-+
-+
 
 
 # Asenkron işlemler ve Çoklu thread (Multithreading) uygulamaları
@@ -95,12 +90,6 @@
 + Thread kavramı
     + Thread sınıfı ve Runnable arayüzü
     + Executor'lar ve thread havuzları
-+ Looper sınıfı
-+ Handler sınıfı
-+ AsyncTask sınıfı
-+ Kotline coroutines
-+ Timer sınıfı
-+ CountDownTimer sınıfı ve kullanımı
 + RxJava ile asenkron işlemler
     + Schedulers sınıfı (Schedulers factory class)
         + computation metodu
@@ -108,10 +97,8 @@
         + newThread metodu
         + single
         + trampoline
-        + AndroidSchedulars sınıfı 
 + Thread'lerarası senksronizasyon
 + Örnek uygulamalar
-
 
 # TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme
 
@@ -182,7 +169,3 @@
 
 ## Yazılım geliiştirmede kullanılan temel araçlar
 
-+ Jenkins
-+ Jenkins pipeline
-+ Kafka
-+ 
