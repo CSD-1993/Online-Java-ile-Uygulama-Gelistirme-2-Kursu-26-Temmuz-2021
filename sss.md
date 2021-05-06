@@ -45,5 +45,5 @@ Eğer daha önce Java ile uygulama geliştirdiyseniz ancak seviyeniz konusunda b
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde Python kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+### Daha önce C ve Sistem Programcıları Derneğinde 'Java ile Uygulama Geliştirme 2' kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
 Hayır. Ancak C ve Sistem Programcıları Derneğinde düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
