@@ -1,7 +1,7 @@
 # Online Java ile Uygulama Geliştirme 2 Kursu
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
-+ Kurs __7 Haziran 2021 Pazartesi__ günü başlayacaktır.
++ Kurs __28 Haziran 2021 Pazartesi__ günü başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Kursta irili ufaklı birçok profesyonel kodlar yazılacak ve profesyonel uygulamalar yapılacaktır
 + Kurs eğitmeni __Oğuz Karan__'dır.
