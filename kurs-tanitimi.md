@@ -19,6 +19,17 @@
 
 + Kursta MongoDB, Elastic search ve Redis gibi araçlar kullanarak uygulama geliştirme üzerinde de detaylı olarak durulacaktır
 
++ Kursta reflection işlemlerine yönelik ileri düzey uygulamalar geliştirilecektir
+
++ Kursta "microservice" uygulamaları detaylı bir biçimde ele alınacaktır
+
++ Kursta TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme uygulamaları yapılacaktır
+
++ Kursta Java ile aşağı seviyeli uygulamar da ele alınacaktır
+
++ Kursta veri yapıları ve algoritmalar Java ile gerçekleştirilecektir (implementation)
+
+
 ## Ön Koşul
 Bu programa katılabilmek için daha Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Uygulama Geliştirme I kursuna katılmış olmak gerekmektedir
 
