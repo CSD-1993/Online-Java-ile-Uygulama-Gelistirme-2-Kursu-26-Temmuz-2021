@@ -29,6 +29,8 @@
 
 + Kursta veri yapıları ve algoritmalar Java ile gerçekleştirilecektir (implementation)
 
++ Kursta özellikle RaspBerryPI ile IOT (Internet Of Things) uygulamarı anlatılacak ve geliştirilecektir
+
 
 ## Ön Koşul
 Bu programa katılabilmek için daha Java ile uygulama geliştirmiş olmak ya da derneğimizde düzenlenmekte olan _Java ile Uygulama Geliştirme I kursuna katılmış olmak gerekmektedir
