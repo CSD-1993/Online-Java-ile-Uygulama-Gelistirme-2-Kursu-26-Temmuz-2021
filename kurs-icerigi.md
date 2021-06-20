@@ -1,6 +1,23 @@
 # Online Java ile Uygulama Geliştirme 2
 
 
+## Mikroservis Uygulamaları
++ Domain Driven Design (DDD)
++ Microservis test işlemleri
++ Mikroservis uygulamalarında güvenlik
++ Inter Process Communication
+    ++ İleri REST işlemleri
+    ++ gRPC 
+    ++ Event haberleşmesi
++ Transaction yönetimi
++ Apache Kafka
++ Örnek uygulamalar
+
+
+## İleri düzey Spring uygulamaları
+
++ Örnek Uygulamalar
+
 ## Veri Yapıları ve Algoritmalar
 
 + Algoritma Kavramı
@@ -41,6 +58,12 @@
 + Graf Veri Yapısında Dolaşım İşlemleri
 + Bazı Tipik Graf Problemlerinin Çözümüne İlişkin Algoritmalar
 
+## Reaktif programlama ve RxJava
++ Reaktif programlama
++ RxJava hakkında temel bilgiler
++ RxJava'nın detaylı incelenmesi
++ Örnek uygulamalar
+
 ## Asenkron işlemler ve Çoklu thread (Multithreading) uygulamaları
 + Process kavramı
 + Asenkron programlama hakkında temel bilgiler
@@ -56,6 +79,13 @@
         + single
         + trampoline
 + Thread'lerarası senkronizasyon
++ Örnek uygulamalar
+
+## Paralel Programlama
+
++ Paralel Programlamanın Anlamı ve Önemi
++ Paralel Programlamanın Sorunları
++ Paralel Programlamada Kullanılan Kütüphaneler ve Ortamlar
 + Örnek uygulamalar
 
 ## TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme
@@ -92,11 +122,7 @@
     + UDP kullanılan örnekler
 + Örnek uygulamalar
 
-## Paralel Programlama
 
-+ Paralel Programlamanın Anlamı ve Önemi
-+ Paralel Programlamanın Sorunları
-+ Paralel Programlamada Kullanılan Kütüphaneler ve Ortamlar
 
 ## Temel JNA ve JNI uygulamaları
 
@@ -104,9 +130,7 @@
 ## Java uygulamalarının performans analizi
 
 
-## İleri düzey Spring uygulamaları
 
-+ Örnek Uygulamalar
 
 ## NoSql veritabanı yönetim sistemleri
 + MongoDB
@@ -145,6 +169,11 @@
 
 
 ## Yazılım geliştirmede kullanılan temel araçlar
++ Jenkins
++ Gradle
++ İleri Maven kullanımı
++ Örnek uygulamalar
 
-
+## IOT (Internet Of Things)
++ Örnek uygulamalar
 
