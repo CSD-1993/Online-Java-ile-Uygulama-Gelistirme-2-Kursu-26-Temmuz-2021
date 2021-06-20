@@ -1,11 +1,6 @@
 # Online Java ile Uygulama Geliştirme 2
 
 
-## Spring uygulamaları
-
-+ Örnek Uygulamalar
-
-
 ## Veri Yapıları ve Algoritmalar
 
 + Algoritma Kavramı
@@ -111,10 +106,27 @@
 
 ## İleri düzey Spring uygulamaları
 
-+ 
 + Örnek Uygulamalar
 
-# Java'da düzenli ifadeler (regular expressions)
+## NoSql veritabanı yönetim sistemleri
++ MongoDB
++ Elastic Search
++ Redis
++ Örnek Uygulamalar
+
+## İleri Reflection İşlemleri
++ 
+
+## Kod Üretimi
++ CLASS ve SOURCE annotation'lar
++ Annotation proecssor
++ Örnekl Uygulamalar
+
+## Byte kod programlama
++ Decompile işlemleri
++ Örnek uygulamalar
+
+## Java'da düzenli ifadeler (regular expressions)
 
 ## JavaFX uygulamaları
 
@@ -124,6 +136,7 @@
 + 
 +
 
+
 ## Java programlarının analiz edilmesi
 + 
 + 
@@ -131,5 +144,7 @@
 ## Çöp toplayıcı'nın ayrıntılı incelenmesi
 
 
-## Yazılım geliiştirmede kullanılan temel araçlar
+## Yazılım geliştirmede kullanılan temel araçlar
+
+
 
