@@ -6,9 +6,9 @@
 + Microservis test işlemleri
 + Mikroservis uygulamalarında güvenlik
 + Inter Process Communication
-    ++ İleri REST işlemleri
-    ++ gRPC 
-    ++ Event haberleşmesi
+    + İleri REST işlemleri
+    + gRPC 
+    + Event haberleşmesi
 + Transaction yönetimi
 + Apache Kafka
 + Örnek uygulamalar
