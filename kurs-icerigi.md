@@ -11,12 +11,8 @@
     + Event haberleşmesi
 + Transaction yönetimi
 + Apache Kafka
-+ Örnek uygulamalar
-
-
-## İleri düzey Spring uygulamaları
-
-+ Örnek Uygulamalar
++ Güvenlik (Security)
++ İleri düzey uygulamalar
 
 ## Veri Yapıları ve Algoritmalar
 
