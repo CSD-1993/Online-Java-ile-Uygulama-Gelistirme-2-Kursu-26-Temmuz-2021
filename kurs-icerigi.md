@@ -112,7 +112,7 @@
 + Client, server programlama modeli
 + TCP protokolü ile uygulama geliştirme
     + Server programın organizasyonu
-    + Client programnın organizasyonu
+    + Client programın organizasyonu
     + Binary haberleşme
     + Text haberleşme
     + Farklı platformlarda geliştirilmiş uygulamalar ile haberleşen uygulmalar
@@ -123,13 +123,10 @@
 + Örnek uygulamalar
 
 
-
 ## Temel JNA ve JNI uygulamaları
 
 
 ## Java uygulamalarının performans analizi
-
-
 
 
 ## NoSql veritabanı yönetim sistemleri
@@ -139,12 +136,10 @@
 + Örnek Uygulamalar
 
 ## İleri Reflection İşlemleri
-+ 
-
-## Kod Üretimi
 + CLASS ve SOURCE annotation'lar
 + Annotation proecssor
-+ Örnekl Uygulamalar
++ Örnek Uygulamalar
+
 
 ## Byte kod programlama
 + Decompile işlemleri
@@ -158,7 +153,6 @@
 
 ## Docker kurulumu ve yönetimi
 + 
-+
 
 
 ## Java programlarının analiz edilmesi
@@ -172,6 +166,9 @@
 + Jenkins
 + Gradle
 + İleri Maven kullanımı
++ Örnek uygulamalar
+
+## Şifreleme işlemleri (Cryptography)
 + Örnek uygulamalar
 
 ## IOT (Internet Of Things)
