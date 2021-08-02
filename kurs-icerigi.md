@@ -91,33 +91,26 @@
 + IP Protokol Ailesine Genel Bakış
 + IP Protokolü
 + TCP ve UDP Protokolleri
-+ TCP Protokolü ile Client/Server Haberleşme
 + Soket Kavramı BSD Soket Sistemi
 + Windows Soket API'leri
-+ TCP Server Programlarının Yazımı
-+ TCP Client Programlarının Yazımı
-+ Client ile Server Arasında Haberleşme Teknikleri
-+ Çok Client'lı Server Uygulamaları
-+ IP Ailesinin Uygulama Katmanına İlişkin Protokoller (POP3, TELNET, HTTP, SSH Protokolleri)
-+ UDP Haberleşmesi 
-+ UDP Client ve Server Programları
-+ IP protokolü ve temel kavramlar
-+ TCP ve UDP protokolleri
-+ Socket kavramı
-+ Network byte order (little mandian, big endian kavramları)
 + Client, server programlama modeli
++ Client ile Server Arasında Haberleşme Teknikleri
++ TCP Protokolü ile Client/Server Haberleşme
 + TCP protokolü ile uygulama geliştirme
     + Server programın organizasyonu
     + Client programın organizasyonu
     + Binary haberleşme
     + Text haberleşme
     + Farklı platformlarda geliştirilmiş uygulamalar ile haberleşen uygulmalar
++ Çok Client'lı Server Uygulamaları
++ Network byte order (little andian, big endian kavramları)
++ UDP Haberleşmesi 
 + UDP protokolü ve uygulama geliştirmne
     + Datagram kavramı
     + UDP programlarının organizasyonu
     + UDP kullanılan örnekler
++ IP Ailesinin Uygulama Katmanına İlişkin Protokoller (POP3, TELNET, HTTP, SSH Protokolleri)
 + Örnek uygulamalar
-
 
 ## Temel JNA ve JNI uygulamaları
 
